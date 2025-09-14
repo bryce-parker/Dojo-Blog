@@ -1,3 +1,6 @@
+run project; npm run dev
+before running build local server; npx json-server --watch src/data/db.json --port 8000
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
